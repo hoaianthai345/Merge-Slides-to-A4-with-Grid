@@ -1,0 +1,5 @@
+streamlit
+pdf2image
+reportlab
+Pillow
+PyPDF2
